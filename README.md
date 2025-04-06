@@ -79,8 +79,4 @@ _Add wireframes/UI images/demo video screenshots here once available_
 - Install dependencies using `pip install -r requirements.txt`
 - Run the app: `python app.py`
 
-> 📌 More updates will be added soon as the development progresses.
 
----
-
-✨ _Made with ❤️ for a better and healthier future!_
